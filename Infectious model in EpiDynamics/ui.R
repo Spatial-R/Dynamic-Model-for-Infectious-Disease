@@ -450,7 +450,7 @@ conditionalPanel(
                 target = "_blank"),
               " and ",
               a("EpiDynamic.",
-                href="http://github.com/oswaldosanto/EpiDynamics",
+                href="https://github.com/oswaldosantos/EpiDynamics",
               target = "_blank")),
             
             p(strong("License:"), 
